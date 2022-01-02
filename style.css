@@ -64,3 +64,27 @@ ul {
 	margin-left: 850px;
 	width: 30%;
 }
+
+nav {
+	position: absolute;
+	top: 20px;
+	right: 0;
+}
+
+nav li {
+	display: inline;
+	margin: 30px 20px 0 35px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: white;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: red;
+	text-decoration: underline;
+}
