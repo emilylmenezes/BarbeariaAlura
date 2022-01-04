@@ -119,8 +119,6 @@ form label, form legend {
 }
 
 .enviar{
-    width: 40%;
-    padding: 15px 0;
     background: orange;
     color: white;
     font-weight: bold;
